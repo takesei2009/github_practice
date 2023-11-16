@@ -1,0 +1,40 @@
+・GitHub
+
+
+・GitHubのアカウント登録
+
+メールアドレス：seigou0713@gmail.com
+pass:uogieS0713
+UserName:takesei2009
+
+
+・ポートフォリオの作成
+
+・リポジトリの作成
+
+Reposiitory name: portfolio
+公開範囲:Public
+
+・READMEファイル
+主にシステムの概要、ツールの使い方、インストール方法などが記述される。
+
+マークダウン記法で記述される。
+HTMLなどのマークアップ言語を簡略化して、より簡単に記述できるようにした記述法
+
+
+・VSCodeからpushする方法
+https://qiita.com/hayaharu3220/items/b7eb57a3689fb8050856
+
+
+・変更ファイルをステージに上げる
+
+untracked
+→枝分かれアイコンの＋ボタン　＝　git add ファイル名
+
+→Commitボタン　
+→COMMIT RDITMGSタブが開く(コメント記入可能)
+→保存した後にタブを閉じるとコミットが始まる
+＝git commit -m "ccommit message"
+
+
+
