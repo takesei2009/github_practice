@@ -36,5 +36,12 @@ untracked
 →保存した後にタブを閉じるとコミットが始まる
 ＝git commit -m "ccommit message"
 
+・VSCodeでブランチを操作
+https://atmarkit.itmedia.co.jp/ait/articles/2110/01/news034.html
+
+ブランチを新規に作成するためには、コマンドパレットにgit create branch等を入力してGit：分岐の作成
+コマンドを実行
+=git checkout -b utility
+
 
 
